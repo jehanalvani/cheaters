@@ -1,4 +1,13 @@
+
 Support Cheaters by [making a donation](http://brettterpstra.com/donate/) to my coffee fund.
+
+---
+
+This is my fork of @ttscoff's nice Cheaters. 
+
+---
+
+
 
 ![Cheat Sheets Header](http://brettterpstra.com/uploads/2012/03/Cheat-Sheets-Header.jpg)
 
